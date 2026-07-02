@@ -1,0 +1,14 @@
+# Ignore large datasets and zips
+\[PUB\]\ India_runs_data_and_ai_challenge.zip
+[PUB] India_runs_data_and_ai_challenge.zip
+data/
+__pycache__/
+*.pyc
+
+# Temporary MS Office files
+~$*
+~$Idea Submission Template _ Redrob.pptx
+
+# Local system files
+.DS_Store
+Thumbs.db
