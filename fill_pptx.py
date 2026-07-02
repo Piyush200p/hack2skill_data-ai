@@ -25,7 +25,7 @@ replacements = {
     # Slide 1
     "team name :": "Team Name: Antigravity AI",
     "problem statement :": "Problem Statement: High-Precision Candidate Ranking for a Founding AI Engineer Role with Strict Constraints.",
-    "team leader name :": "Team Leader Name: Participant Leader",
+    "team leader name :": "Team Leader Name: Piyush Baraiya",
     
     # Slide 2 (Solution Overview)
     "what is your proposed solution?": (

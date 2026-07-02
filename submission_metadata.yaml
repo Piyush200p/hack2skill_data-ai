@@ -10,12 +10,12 @@
 team_name: "Antigravity AI"  # Used in leaderboard and announcements
 
 primary_contact:
-  name: "[Your Full Name]"
+  name: "Piyush Baraiya"
   email: "[Your Email]"   # Used for all organizer communication
   phone: "[Your Phone]"        # Used for top-50 / top-10 outreach
 
 team_members:
-  - name: "[Your Full Name]"
+  - name: "Piyush Baraiya"
     email: "[Your Email]"
     role: "ML Engineer"          # Optional, e.g. "Team Lead", "Backend", "Data"
 
