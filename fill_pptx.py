@@ -134,7 +134,6 @@ replacements = {
     "github video etc": (
         "Submission Assets:\n"
         "- GitHub Repository: https://github.com/Piyush200p/hack2skill_data-ai\n"
-        "- Walkthrough Video: [Your Walkthrough Video Link]\n"
         "- submission.csv: Final candidate ranking file\n"
         "- submission.xlsx: Inspectable Excel sheet\n"
         "- rank.py: Self-contained reproduction script"
